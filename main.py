@@ -1,4 +1,4 @@
-# SNAKE GAME
+# SNAKE GAME by Maria
 from snake import Snake
 from food import Food
 from score import Scoreboard
